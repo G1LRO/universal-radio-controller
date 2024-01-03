@@ -1,2 +1,2 @@
 # universal-radio-controller
-Open source elements of the G1LRO Universal Radio Controller.
+Open Hardware elements of the G1LRO Universal Radio Controller.
